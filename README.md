@@ -1,0 +1,5 @@
+# Miami-Dade County — Landing Page
+
+A single-file, static landing page prepared for the Miami-Dade County ITD team at booth 501. The page reads as a municipal document: Arial throughout (per the county's Board-adopted brand guide), the tri-color seal at the top, navy and gold accents drawn from the county palette, a civic utility bar acknowledging English, Spanish, and Haitian Creole, and a reference panel that cites only miamidade.gov pages. The pitch body opens on the gap between the 2026 AI Vision and what has shipped, frames Eduba's orchestration-layer-on-top-of-Copilot approach using the 60/30/10 rule, cites Correlation One (Pacific Life and Colgate-Palmolive) with 1,500+ trained and 95% 30-day adoption, brings VigilOre as the compliance-shaped precedent, and hands over the Interpretable Context Methodology paper as the methodology of record. The CTA routes to Matt Creamer, Eduba's CRO. No Eduba engagement pricing appears anywhere on the page.
+
+Intended URL path: /for/miami-dade-county
